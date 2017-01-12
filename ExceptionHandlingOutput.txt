@@ -1,0 +1,27 @@
+run:
+Enter an integer numerator: 0
+Enter an integer denominator: 0
+Can't divide by zero, try again: java.lang.ArithmeticException: / by zero
+Code block completed.
+Enter an integer numerator: 8
+Enter an integer denominator: 0
+Can't divide by zero, try again: java.lang.ArithmeticException: / by zero
+Code block completed.
+Enter an integer numerator: okji
+At least one of these is not an integer,try again:java.util.InputMismatchException
+Code block completed.
+Enter an integer numerator: 43
+Enter an integer denominator: $%^
+At least one of these is not an integer,try again:java.util.InputMismatchException
+Code block completed.
+Enter an integer numerator: 7
+Enter an integer denominator: 4.562
+At least one of these is not an integer,try again:java.util.InputMismatchException
+Code block completed.
+Enter an integer numerator: 9
+Enter an integer denominator: 5
+The division answer is: 1
+And the remainder is: 4
+The decimal division value is: 1.8
+Code block completed.
+BUILD SUCCESSFUL (total time: 1 minute 11 seconds)
